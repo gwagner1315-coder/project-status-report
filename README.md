@@ -1,2 +1,7 @@
 # project-status-report
-Project Updates made by Gavin's Team
+
+## Week 1 - September 15, 2026
+
+- Project initiated
+- Team members assigned
+- Initial budget approved: $50,000
